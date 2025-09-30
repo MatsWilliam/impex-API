@@ -1,0 +1,28 @@
+{
+  "name": "impex-api",
+  "version": "1.0.0",
+  "description": "backendProjectAPI",
+  "homepage": "https://github.com/MatsWilliam/impex-API#readme",
+  "bugs": {
+    "url": "https://github.com/MatsWilliam/impex-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatsWilliam/impex-API.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3"
+  }
+}
